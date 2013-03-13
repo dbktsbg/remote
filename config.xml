@@ -8,10 +8,9 @@
   <name>CloudVOTE Remote</name>
 
   <icon
-    src = "CloudVOTE-icon-145.png"
-    width = 146
-    height = 145></icon>
+    src = "icon.png"></icon>
 
-  <gap:splash src="CloudVOTE-icon-145.png"></gap:splash>
+  <gap:splash 
+    src="icon.png"></gap:splash>
 
 </widget>
